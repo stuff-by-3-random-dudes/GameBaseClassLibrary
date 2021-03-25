@@ -14,7 +14,7 @@ namespace GameBaseClassLibrary
     }
     public enum GameConsoles
     {
-        NDS, N64, GBA, NES, SNES, TG16, MSX, WII, GCN
+        NDS, N64, GBA, NES, SNES, TG16, MSX, WII, GCN, RARCH
     }
 }
 
